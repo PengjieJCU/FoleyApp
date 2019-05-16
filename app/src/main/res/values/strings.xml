@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoleyApp</string>
+    <string name="Bomb">Bomb</string>
+    <string name="Rebel">Rebel</string>
+    <string name="TomCat">TomCat</string>
+    <string name="AirplaneLanding">AirplaneLanding</string>
+    <string name="Dixehirn">Dixehirn</string>
+    <string name="FireTruck">FireTruck</string>
+    <string name="HeavyRain">Heavy Rain</string>
+    <string name="Labradorbarking">Labradorbarking</string>
+    <string name="MuscleCar">MuscleCar</string>
+    <string name="PoliceWhistle">PoliceWhistle</string>
+    <string name="WatchaAlarm">WatchAlarm</string>
+    <string name="WaterDrops">WaterDrops</string>
+
+</resources>
